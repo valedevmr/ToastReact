@@ -1,1 +1,1 @@
-## Creacuon de una interfaz con los notificaciones mas comunees o grados de severidad: success, error, warnign, info.
+## Creación de una interfaz con los notificaciones mas comunes o grados de severidad: success, error, warnign, info.
